@@ -1,0 +1,31 @@
+#info{
+    font-family: arial;
+}
+
+#contact{
+    color: white;
+}
+
+#contact2{
+    color: white;
+}
+
+#items{
+    color:black;
+}
+
+#items:hover{
+    text-decoration: underline;
+    text-decoration-color: rgb(65,173,231);
+    background-color: black;
+    color: white;
+}
+
+
+#contact2:hover{
+    text-decoration: underline;
+}
+
+#foot{
+    background-color: black;
+}
